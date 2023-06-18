@@ -1,6 +1,6 @@
 # Name: Roan Campbell
 # Date: 06/18/2023
-# Description: Determine if a student will qualify for the Dean's List or Honor Roll via if else and while statements.
+# Description: Determine if a student will qualify for the Dean's List or Honor Roll with if else and while statements.
 lastName = input("Please enter student's last name: ")
 while lastName != "ZZZ":
     firstName = input("Please enter student's first name: ")
